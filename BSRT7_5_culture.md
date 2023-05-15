@@ -3,7 +3,18 @@
 
 ### Thawing protocol
 
+See [generic cell thawing protocol]() [pending]
+
 ### Subculturing (splitting) protocol
+
+1. Prepare hood for culture.  Preward growth medium and trypsin in 37C water bath.
+2. Aspirate old medium from dish using sterilize aspiration pump.
+3. Rinse cells in 1x PBS (without Ca or Mg): appropriate volume will vary based on culture dish size: for a 10 cm dish, use 4-5 mL.
+4. Aspirate PBS.
+5. Add pre-warmed trypsin/EDTA to plate (2 mL for a 10 cm dish).  Swirl to cover cells.  Return cells to incubator.
+6. Monitor cells for detachment: should take ~3-5 minues.
+7. When cells are mostly detached, respsupend cells and trypsin in cGMEM (~10 mL total volume for a 10 cm dish).  Mix cells by pipetting up and down gently.
+8. Return appropriate volume to dish for ongoing culture (for a 1:10 split, return 1 mL from 10 mL to dish).  Discard remaining volume or use for something else (counting/plating, freezing, etc.).
 
 ### Freezing protocol
 
